@@ -53,8 +53,8 @@ async def chk(bot : Client, cb : CallbackQuery):
             [[
                 InlineKeyboardButton(text="⚡ Generate String Session ⚡", callback_data="generate")
             ],[
-                InlineKeyboardButton("❣️ Support Group ❣️", url="https://t.me/VJ_Bot_Disscussion"),
-                InlineKeyboardButton("🥀 Update Channel 🥀", url="https://t.me/VJ_Botz")
+                InlineKeyboardButton("❣️ Support Group ❣️", url="https://t.me/ethical_hacking_Chating"),
+                InlineKeyboardButton("🥀 Update Channel 🥀", url="https://t.me/ethical_hacking_learning898")
             ]]
         )
     )
